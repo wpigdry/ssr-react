@@ -1,3 +1,4 @@
+# 摘自 http://blog.banli.co/react-server-side-rendering/  https://github.com/dabanlee/react-ssr
 # React Server Side Rendering Demo
 
 # ssr-react
